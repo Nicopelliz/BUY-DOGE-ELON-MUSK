@@ -30,7 +30,7 @@ binance_parameters = [
         'asset':['BTC',0.97], # ASSET con cui comprare DOGE e rispettiva percentuale (rispetto al totale nell'account) da utilizzare per le transazioni
         'symbol':'DOGE',
         'quantity':'',
-        'active':True # True o False determina se questo particolare verrà utilizzato o no nella funzione che genera le transazioni   
+        'active':True # True o False determina se questo particolare account verrà utilizzato o no nella funzione che genera le transazioni   
         },
         {'id':'Account2',
         'api_key':config('Account2_API_KEY_binance'),
