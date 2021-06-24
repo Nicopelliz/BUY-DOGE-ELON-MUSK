@@ -1,4 +1,4 @@
-# IMPORTANT! : i'm not a financial adviser and i will not assume in any way shape or form responsibility if something goes wrong with the script... (if you are able to gain some money i will cheer with you)
+# IMPORTANT! : i'm not a financial adviser and i will not assume in any way shape or form responsibility if something goes wrong with the script. If you gain some money i will cheer with you (for me that has worked very well in the past months...)
 
 ENGLISH ENGLISH ENGLISH
 # BUY-DOGE-ELON-MUSK
