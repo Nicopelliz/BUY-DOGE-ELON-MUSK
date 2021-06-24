@@ -1,6 +1,6 @@
 ### ENGLISH ENGLISH ENGLISH (ITALIANO IN FONDO)
 
-# IMPORTANT! : i'm not a financial adviser and i will not assume in any way shape or form responsibility if something goes wrong with the script. If you gain some money i will cheer for you! For me that has worked very well in the past months...
+### IMPORTANT! : i'm not a financial adviser and i will not assume in any way shape or form responsibility if something goes wrong with the script. If you gain some money i will cheer for you! For me that has worked very well in the past months...
 
 
 # BUY-DOGE-ELON-MUSK
@@ -54,7 +54,7 @@ With all the data you have collected you can dig deep to find some "connection" 
 
 ### ITALIANO ITALIANO ITALIANO
 
-# IMPORTANTE! : non sono un consulente finanziario e non mi assumo in alcun modo la responsabilità se qualcosa va storto con il programma. Se guadagni un po' di soldi, sarò contento per te! Per me ha funzionato molto bene negli ultimi mesi...
+### IMPORTANTE! : non sono un consulente finanziario e non mi assumo in alcun modo la responsabilità se qualcosa va storto con il programma. Se guadagni un po' di soldi, sarò contento per te! Per me ha funzionato molto bene negli ultimi mesi...
 
 # ACQUISTA-DOGE-ELON-MUSK
 
