@@ -66,7 +66,7 @@ Twisted==21.2.0
 twitter-scraper==0.4.4
 txaio==21.2.1
 tzlocal==2.1
-ujson==4.0.2
+ujson==5.4.0
 urllib3==1.26.5
 w3lib==1.22.0
 websocket-client==0.58.0
