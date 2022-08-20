@@ -28,7 +28,7 @@ knockknock==0.1.8.1
 lxml==4.9.1
 matrix-client==0.3.2
 MechanicalSoup==1.0.0
-numpy==1.20.1
+numpy==1.22.0
 oauthlib==3.1.0
 pandas==1.2.3
 parse==1.19.0
